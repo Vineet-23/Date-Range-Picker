@@ -1,0 +1,51 @@
+body {
+    display: block;
+    margin: 8px;
+    background-color: #AC8968;
+    font-weight: bold;
+  }
+  
+  .weekday-date-range-picker-container {
+    background-color: #A69080;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 10px;
+    align-items: center;
+  }
+  
+  .date-input {
+    background-color: #C2B9B0;
+    margin-bottom: 10px;
+  }
+  
+  .predefined-range-select {
+    background-color: #C2B9B0;
+    margin-bottom: 10px;
+  }
+  
+  .date-range-info {
+    background-color: #93785b;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align:center;
+  }
+  
+  .error {
+    color: black;
+    text-align: center;
+    font-size:larger;
+    font-weight: bolder;
+  }
+  
+  .btn {
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+ 
